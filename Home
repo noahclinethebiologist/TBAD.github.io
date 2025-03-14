@@ -1,9 +1,48 @@
 <!DOCTYPE html>
 <html>
+<head>
+<title>Home</title>
+</head>
 <body>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+<h1>The TCR and BCR Allelic Database</h1>
+<p>The TCR and BCR Allelic Database (TBAD) is a central resource for recording allelic variation within the T cell receptor and B cell receptor loci for human and non-human genomes.</p>
 
+<p>
+T Cell Receptor Loci
+</p>
+<p>
+<a href="https://www.w3schools.com/">TRA</a>
+</p>
+<p>
+<a href="https://www.w3schools.com/">TRB</a>
+</p>
+<p>
+<a href="https://www.w3schools.com/">TRD</a>
+</p>
+<p>
+<a href="https://www.w3schools.com/">TRG</a>
+</p>
+<p>
+B Cell Receptor Loci
+</p>
+<p>
+<a href="https://www.w3schools.com/">IGH</a>
+</p>
+<p>
+<a href="https://www.w3schools.com/">IGK</a>
+</p>
+<p>
+<a href="https://www.w3schools.com/">IGL</a>
+</p>
+<p>
+Non-human TCR/BCR
+</p>
+<p>
+Nomenclature
+</p>
+<p>
+Criteria for Novel Alleles
+</p>
 </body>
 </html>
